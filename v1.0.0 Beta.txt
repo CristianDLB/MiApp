@@ -1,3 +1,0 @@
-[07 JULIO 2026]
-> Se arreglo de Obtener Niños en la Configuracion
-> Se agrego una barra de sincronizando para cuando detecta fallos de internet 
